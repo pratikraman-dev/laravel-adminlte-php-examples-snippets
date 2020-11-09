@@ -73,7 +73,8 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 The following is a set of guidelines for contributing to Laravel AdminLTE.
 
-Submitting Issues
+** Submitting Issues **
+
 You can create an issue here.
 
 If you can, please include:
